@@ -1,0 +1,17 @@
+C:\Users\Paweł\source\repos\Winda\Winda\bin\Debug\netcoreapp3.0\Winda.exe
+C:\Users\Paweł\source\repos\Winda\Winda\bin\Debug\netcoreapp3.0\Winda.deps.json
+C:\Users\Paweł\source\repos\Winda\Winda\bin\Debug\netcoreapp3.0\Winda.runtimeconfig.json
+C:\Users\Paweł\source\repos\Winda\Winda\bin\Debug\netcoreapp3.0\Winda.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\Winda\Winda\bin\Debug\netcoreapp3.0\Winda.dll
+C:\Users\Paweł\source\repos\Winda\Winda\bin\Debug\netcoreapp3.0\Winda.pdb
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.dll
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.pdb
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.Form1.resources
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.genruntimeconfig.cache
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.Properties.Resources.resources
+C:\Users\Paweł\source\repos\Winda\Winda\obj\Debug\netcoreapp3.0\Winda.csproj.ResolveComReference.cache

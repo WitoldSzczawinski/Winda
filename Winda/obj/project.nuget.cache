@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyXs3ToqgJHMsI5NaL1fxxoxq8AjL9vjG8GEh4YGSu8uVRivYdF9/UnE1cz4OQ0I8Q2icAJUGnt7TxzqrjnnmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paweł\\source\\repos\\Winda\\Winda\\Winda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paweł\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Paweł\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Paweł\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Paweł\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
